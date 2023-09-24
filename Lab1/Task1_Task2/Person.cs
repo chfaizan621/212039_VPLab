@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lab1.Task1_and_Task2
+namespace Lab1.Task1_Task2
 {
     public class Person
     {
